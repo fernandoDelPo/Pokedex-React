@@ -29,6 +29,10 @@ Abrir http://localhost:3000 en su navegador para ver la aplicación en funcionam
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/fernandoDelPo/Pokedex-React/blob/main/src/assets/pokedex%201.jpg?raw=true)
 
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/fernandoDelPo/Pokedex-React/blob/main/src/assets/pokedex%203%20filtrar.jpg?raw=true)
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/fernandoDelPo/Pokedex-React/blob/main/src/assets/pokedex%204%20detalle.jpg?raw=true)
+
 
 ## Contribuir 💪
 
