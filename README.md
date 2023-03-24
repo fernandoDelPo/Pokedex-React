@@ -1,10 +1,10 @@
 
 
-## Pokédex con React y Hooks 🐱‍👤🎣
+# Pokédex con React y Hooks 🐱‍👤🎣
 
 Este es un proyecto de Pokedex 📖 que utiliza una API 🌐 para mostrar información sobre los diferentes Pokemon 🐾. La aplicación muestra de a 50 Pokemones por página 📄 y permite agregar otros 50 con un botón 🎮. También tiene una función de búsqueda 🔎 y un filtro por tipo 📊.
 
-# Funcionamiento ⚙️ :
+## Funcionamiento ⚙️ :
 
 Al iniciar la aplicación, se cargan los primeros 50 Pokemon de la API 🚀. A medida que se desplaza hacia abajo, se cargan los siguientes 50 Pokemon. También hay un botón "Cargar más" para agregar otros 50 Pokemon.
 
