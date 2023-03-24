@@ -15,12 +15,12 @@ El filtro de tipo permite filtrar la lista de Pokemon por su tipo 🧭. Simpleme
 Al hacer clic en un Pokemon en la lista, se mostrará una tarjeta con toda la información del Pokemon 📇. Esta tarjeta incluirá la imagen del Pokemon, su nombre, su tipo y una lista de sus habilidades y características.
 
 
-# Tecnologías utilizadas 💻 :
+## Tecnologías utilizadas 💻 :
 
 Este proyecto fue desarrollado utilizando React y los Hooks para administrar el estado. La información sobre los Pokemon se obtiene de una API externa 🌐. Se utilizó Fetch para hacer las solicitudes HTTP a la API.
 
 
-# Cómo ejecutar el proyecto 🏃‍♂️ :
+## Cómo ejecutar el proyecto 🏃‍♂️ :
 
 Clonar el repositorio en su máquina local 💻.
 Ejecutar npm install para instalar las dependencias 🛠️.
@@ -28,10 +28,10 @@ Ejecutar "npm run dev" para iniciar la aplicación 🚀.
 Abrir http://localhost:3000 en su navegador para ver la aplicación en funcionamiento 🌐.
 
 
-# Contribuir 💪
+## Contribuir 💪
 
 Si desea contribuir a este proyecto, puede hacerlo abriendo un problema o una solicitud de extracción en el repositorio de GitHub. También puede contactarme por correo electrónico si tiene alguna pregunta o sugerencia 📧.
 
-# Licencia 📝 :
+## Licencia 📝 :
 
 Este proyecto está bajo la licencia MIT 📜.
