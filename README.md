@@ -20,8 +20,4 @@ Clonar el repositorio en su máquina local 💻.
 Ejecutar npm install para instalar las dependencias 🛠️.
 Ejecutar "npm run dev" para iniciar la aplicación 🚀.
 Abrir http://localhost:3000 en su navegador para ver la aplicación en funcionamiento 🌐.
-Contribuir 💪
-Si desea contribuir a este proyecto, puede hacerlo abriendo un problema o una solicitud de extracción en el repositorio de GitHub. También puede contactarme por correo electrónico si tiene alguna pregunta o sugerencia 📧.
 
-Licencia 📝 :
-Este proyecto está bajo la licencia MIT 📜.
