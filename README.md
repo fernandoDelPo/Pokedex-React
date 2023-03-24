@@ -27,6 +27,8 @@ Ejecutar npm install para instalar las dependencias 🛠️.
 Ejecutar "npm run dev" para iniciar la aplicación 🚀.
 Abrir http://localhost:3000 en su navegador para ver la aplicación en funcionamiento 🌐.
 
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/fernandoDelPo/Pokedex-React/blob/main/src/assets/pokedex%201.jpg?raw=true)
+
 
 ## Contribuir 💪
 
